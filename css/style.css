@@ -1,3 +1,18 @@
+body {
+    margin: 0 auto;
+}
+
 .my-tile {
     gap: 20px;
+}
+
+.container-md {
+    margin: 0 auto;
+}
+.container {
+    width: 100%;
+}
+.container-md a {
+    margin: 0 auto;
+    min-width: 650px;
 }
